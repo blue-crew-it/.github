@@ -1,1 +1,1 @@
-![bcit_banner](images/bcit_banner.png)
+![bcit_banner](https://raw.githubusercontent.com/blue-crew-it/.github/main/profile/images/bcit_banner.png)
