@@ -1,1 +1,1 @@
-# hello
+![bcit_banner](images/bcit_banner.png)
