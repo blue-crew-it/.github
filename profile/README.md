@@ -1,1 +1,1 @@
-![bcit_banner](images/bcit_banner.png)
+![bcit_banner](./images/bcit_banner.png)
